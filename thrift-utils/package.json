@@ -1,6 +1,6 @@
 {
   "name": "ezbake-thrift-utils",
-  "version": "2.0.1-snapshot.0",
+  "version": "2.1.0",
   "description": "Ezbake Thrift Utils for NodeJS",
   "licenses": [
     {
@@ -10,8 +10,8 @@
   ],
   "main": "./lib/thriftutils",
   "dependencies": {
-    "ezbake-discovery": "~2.0.0",
-    "ezbake-configuration":"~2.0.0",
+    "ezbake-discovery": "~2.1.0",
+    "ezbake-configuration":"~2.1.0",
     "thrift": "0.9.1",
     "winston": "0.7.3",
     "generic-pool": "2.1.1",

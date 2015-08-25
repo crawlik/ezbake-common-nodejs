@@ -1,6 +1,6 @@
 {
   "name": "ezbake-discovery",
-  "version": "2.0.1-snapshot.0",
+  "version": "2.1.0",
   "description": "Ezbake service discovery for nodejs",
   "main": "./lib/index.js",
   "scripts": {

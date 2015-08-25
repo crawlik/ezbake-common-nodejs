@@ -2,7 +2,7 @@
   "author" : "Gary Drocella",
   "name" : "ezbake-security-client",
   "description" : "Ezbake Security Client for NodeJS",
-  "version": "2.0.1-snapshot.0",
+  "version": "2.1.0",
   "licenses": [
     {
       "type": "Apache-2.0",
@@ -16,8 +16,8 @@
       "lodash-node": "~2.4.1",
       "cache-manager": "~0.18.0",
       "node-int64": "0.3.x",
-      "ezbake-configuration":"~2.0.0",
-      "ezbake-thrift-utils": "~2.0.0"
+      "ezbake-configuration":"~2.1.0",
+      "ezbake-thrift-utils": "~2.1.0"
   },
   "devDependencies": {
       "mocha": ">=1.0",
